@@ -45,4 +45,3 @@ https://github.com/StayAt/xpages.bootstrap-mobAdmin02
 or the easy way
 
 http://stayat.org/nsf/Download_04.zip
-
